@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  width: 100%;
+  background-color: #fff;
+  font-family: "Roboto", "Open Sans", "Lato", "Noto Sans", "Helvetica", "Arial",
+    sans-serif;
+  height: 100vh;
+  background: url("./assets/images/background.png") no-repeat;
+  background-size: cover;
+  background-position: 0 -100px;
+}
+
+* {
+  box-sizing: border-box;
+}
